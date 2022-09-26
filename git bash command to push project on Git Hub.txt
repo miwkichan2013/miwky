@@ -1,0 +1,8 @@
+git bash command to push project on Git Hub
+1. git init
+2.git add .
+3.git config --global user.email "ciamiwkichan@gmail.com"
+4. git commit -m "lerning html"
+5. git remote add github (link of your GitHub project).git
+6. git remote -v
+7. git push -f github main
